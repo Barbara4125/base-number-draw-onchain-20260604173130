@@ -78,3 +78,7 @@ Published checkpoint 38 for the onchain draw console.
 ## Push 39
 
 Published checkpoint 39 for the onchain draw console.
+
+## Push 40
+
+Published checkpoint 40 for the onchain draw console.
