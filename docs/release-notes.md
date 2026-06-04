@@ -62,3 +62,7 @@ Published checkpoint 34 for the onchain draw console.
 ## Push 35
 
 Published checkpoint 35 for the onchain draw console.
+
+## Push 36
+
+Published checkpoint 36 for the onchain draw console.
