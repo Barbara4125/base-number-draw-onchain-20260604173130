@@ -18,3 +18,7 @@ Published checkpoint 23 for the onchain draw console.
 ## Push 24
 
 Published checkpoint 24 for the onchain draw console.
+
+## Push 25
+
+Published checkpoint 25 for the onchain draw console.
