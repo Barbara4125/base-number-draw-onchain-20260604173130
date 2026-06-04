@@ -1,0 +1,11 @@
+.next/
+node_modules/
+.env*
+*.log
+
+.chrome-*/
+.edge-*/
+
+next-env.d.ts
+
+.vercel
