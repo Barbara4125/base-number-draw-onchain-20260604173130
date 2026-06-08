@@ -124,3 +124,9 @@ If no tests are present yet, consider adding them as the project grows.
 If a build script is available, run:
 
 ```bash
+npm run build
+```
+
+Check the project configuration to confirm the output directory and build behavior.
+
+## Contributing
