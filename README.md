@@ -147,3 +147,11 @@ Keep this README current with:
 - Usage instructions
 - Build steps
 - Test commands
+- Deployment notes, if applicable
+- Known limitations
+
+## License
+
+No license information was provided in the original README.
+
+Add a license file if the project should define usage and distribution terms.
