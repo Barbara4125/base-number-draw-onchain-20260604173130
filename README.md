@@ -130,3 +130,11 @@ npm run build
 Check the project configuration to confirm the output directory and build behavior.
 
 ## Contributing
+
+When contributing:
+
+1. Clone the repository.
+2. Create a new branch for your work.
+3. Make focused changes.
+4. Run available checks.
+5. Open a pull request with a clear description.
