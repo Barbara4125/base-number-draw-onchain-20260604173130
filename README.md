@@ -138,3 +138,12 @@ When contributing:
 3. Make focused changes.
 4. Run available checks.
 5. Open a pull request with a clear description.
+
+## Maintenance
+
+Keep this README current with:
+
+- Setup requirements
+- Usage instructions
+- Build steps
+- Test commands
