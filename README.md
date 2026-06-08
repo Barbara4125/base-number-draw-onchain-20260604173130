@@ -61,3 +61,11 @@ If the project uses another toolchain, refer to the configuration files included
 ## Usage
 
 After installing dependencies, inspect the available scripts:
+
+```bash
+npm run
+```
+
+Common script names may include:
+
+```bash
