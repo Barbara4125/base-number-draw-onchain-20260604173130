@@ -69,3 +69,9 @@ npm run
 Common script names may include:
 
 ```bash
+npm run dev
+npm run build
+npm run test
+```
+
+Use only the scripts that are actually defined in the project configuration.
