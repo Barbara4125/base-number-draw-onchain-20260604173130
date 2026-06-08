@@ -92,3 +92,11 @@ The repository may include directories such as:
 ```text
 src/
 test/
+docs/
+public/
+config/
+```
+
+The actual structure should be confirmed by reviewing the files in the repository.
+
+## Configuration
