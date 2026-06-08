@@ -45,3 +45,11 @@ npm install
 ```
 
 or:
+
+```bash
+yarn install
+```
+
+or:
+
+```bash
