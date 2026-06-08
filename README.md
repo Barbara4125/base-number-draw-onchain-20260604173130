@@ -53,3 +53,11 @@ yarn install
 or:
 
 ```bash
+pnpm install
+```
+
+If the project uses another toolchain, refer to the configuration files included in the repository.
+
+## Usage
+
+After installing dependencies, inspect the available scripts:
