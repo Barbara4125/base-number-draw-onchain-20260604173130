@@ -13,3 +13,11 @@ The original project description is brief, so this document focuses on practical
 Use this repository as the source of truth for the project files, configuration, and implementation details.
 
 ## Features
+
+- Project identity: **NumberDrawVault**
+- Hosted repository with public source code
+- Structured starting point for development
+- Suitable for adding application logic, configuration, tests, and documentation
+- README layout designed for future expansion
+
+## Repository
