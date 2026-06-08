@@ -116,3 +116,11 @@ If tests are available, run the test command defined by the project:
 ```bash
 npm run test
 ```
+
+If no tests are present yet, consider adding them as the project grows.
+
+## Building
+
+If a build script is available, run:
+
+```bash
