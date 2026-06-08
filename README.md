@@ -100,3 +100,11 @@ config/
 The actual structure should be confirmed by reviewing the files in the repository.
 
 ## Configuration
+
+If the project requires environment configuration, add an example file such as:
+
+```text
+.env.example
+```
+
+Document each required value clearly so contributors can set up the project without guessing.
