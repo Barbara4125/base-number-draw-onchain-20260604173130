@@ -29,3 +29,11 @@ git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130
 ```
 
 Then move into the project directory:
+
+```bash
+cd base-number-draw-onchain-20260604173130
+```
+
+## Setup
+
+Install dependencies using the package manager used by the project.
