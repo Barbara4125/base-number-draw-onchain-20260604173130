@@ -108,3 +108,11 @@ If the project requires environment configuration, add an example file such as:
 ```
 
 Document each required value clearly so contributors can set up the project without guessing.
+
+## Testing
+
+If tests are available, run the test command defined by the project:
+
+```bash
+npm run test
+```
