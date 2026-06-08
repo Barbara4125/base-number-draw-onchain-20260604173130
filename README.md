@@ -84,3 +84,11 @@ Use only the scripts that are actually defined in the project configuration.
 - Document required environment variables in a dedicated section or example file.
 - Avoid committing private configuration values.
 - Keep setup instructions aligned with the current project structure.
+
+## Suggested Project Structure
+
+The repository may include directories such as:
+
+```text
+src/
+test/
