@@ -75,3 +75,12 @@ npm run test
 ```
 
 Use only the scripts that are actually defined in the project configuration.
+
+## Development Notes
+
+- Keep documentation updated as features are added.
+- Prefer small, focused changes that are easy to review.
+- Add tests when introducing new behavior.
+- Document required environment variables in a dedicated section or example file.
+- Avoid committing private configuration values.
+- Keep setup instructions aligned with the current project structure.
