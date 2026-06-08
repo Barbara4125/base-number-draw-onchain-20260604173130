@@ -21,3 +21,11 @@ Use this repository as the source of truth for the project files, configuration,
 - README layout designed for future expansion
 
 ## Repository
+
+Clone the project from GitHub:
+
+```bash
+git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git
+```
+
+Then move into the project directory:
