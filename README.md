@@ -37,3 +37,11 @@ cd base-number-draw-onchain-20260604173130
 ## Setup
 
 Install dependencies using the package manager used by the project.
+
+If the repository contains a `package.json`, run one of the following commands depending on the lockfile present:
+
+```bash
+npm install
+```
+
+or:
