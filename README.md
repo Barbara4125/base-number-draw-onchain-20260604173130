@@ -121,3 +121,12 @@ For JavaScript or TypeScript-based projects, this may be:
 
 ```bash
 npm test
+```
+
+For other toolchains, use the test command defined by the project configuration.
+
+If no tests are currently present, consider adding tests alongside new functionality.
+
+## Configuration
+
+Configuration may be handled through files checked into the repository or through local environment variables.
