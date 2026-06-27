@@ -148,3 +148,11 @@ To contribute:
 5. Open a pull request with a clear summary of the change.
 
 Suggested branch naming examples:
+
+```bash
+feature/number-draw-flow
+fix/readme-setup
+docs/project-notes
+```
+
+## Maintenance
