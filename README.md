@@ -138,3 +138,13 @@ Create local configuration files only when required by the project.
 Do not commit private local settings.
 
 ## Contributing
+
+To contribute:
+
+1. Create a new branch for your work.
+2. Make focused changes.
+3. Run formatting, linting, and tests if available.
+4. Update documentation when needed.
+5. Open a pull request with a clear summary of the change.
+
+Suggested branch naming examples:
