@@ -112,3 +112,12 @@ Only use commands that are actually defined in the repository.
 - Run available tests before submitting changes.
 - Review configuration files before modifying deployment or network-related settings.
 - Avoid committing local environment files, private configuration, or generated artifacts unless they are intentionally part of the project.
+
+## Testing
+
+If the repository includes a test suite, run it before committing changes.
+
+For JavaScript or TypeScript-based projects, this may be:
+
+```bash
+npm test
