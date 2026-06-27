@@ -42,3 +42,12 @@ After cloning, inspect the files with:
 
 ```bash
 ls
+```
+
+Common files or folders you may see in a project like this include:
+
+- `README.md` for project documentation.
+- Source directories for contracts, scripts, or application code.
+- Configuration files for build tools or development environments.
+- Test directories for validation and regression checks.
+- Deployment or utility scripts.
