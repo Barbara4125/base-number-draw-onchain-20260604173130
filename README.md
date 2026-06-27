@@ -51,3 +51,11 @@ Common files or folders you may see in a project like this include:
 - Configuration files for build tools or development environments.
 - Test directories for validation and regression checks.
 - Deployment or utility scripts.
+
+## Requirements
+
+Before working with the project, review the repository files to identify the required tools.
+
+If the repository includes a package manifest, install the relevant runtime and package manager before continuing.
+
+For example, if a `package.json` file is present, install dependencies with:
