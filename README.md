@@ -94,3 +94,13 @@ npm run
 ```
 
 Then run the appropriate command for your task.
+
+Common development commands may include:
+
+```bash
+npm run build
+npm run test
+npm run dev
+```
+
+Only use commands that are actually defined in the repository.
