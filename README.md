@@ -23,3 +23,13 @@ Because the project structure may evolve over time, always review the files in t
 ## Repository
 
 Clone the project from GitHub:
+
+```bash
+git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git
+```
+
+Then move into the project directory:
+
+```bash
+cd base-number-draw-onchain-20260604173130
+```
