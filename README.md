@@ -16,3 +16,10 @@ Because the project structure may evolve over time, always review the files in t
 
 - Project identity for an on-chain number draw application.
 - Repository-based workflow suitable for local development.
+- Space for smart contract, application, or integration code as the project grows.
+- Clear documentation structure for setup, usage, and maintenance.
+- Practical guidance for contributors and reviewers.
+
+## Repository
+
+Clone the project from GitHub:
