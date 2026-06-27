@@ -77,3 +77,12 @@ If another package manager is used, follow the configuration provided in the rep
 Example:
 
 ```bash
+git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git
+cd base-number-draw-onchain-20260604173130
+```
+
+Then install dependencies according to the files included in the project.
+
+## Usage
+
+Use the scripts and configuration provided in the repository.
