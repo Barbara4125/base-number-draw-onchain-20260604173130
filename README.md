@@ -156,3 +156,11 @@ docs/project-notes
 ```
 
 ## Maintenance
+
+When maintaining this repository:
+
+- Keep the README aligned with the actual codebase.
+- Remove outdated instructions when tools or workflows change.
+- Document new commands as they are added.
+- Keep setup steps simple and reproducible.
+- Prefer clear naming for files, scripts, and configuration.
