@@ -130,3 +130,11 @@ If no tests are currently present, consider adding tests alongside new functiona
 ## Configuration
 
 Configuration may be handled through files checked into the repository or through local environment variables.
+
+Before running deployment, integration, or network-related commands, review the configuration carefully.
+
+Create local configuration files only when required by the project.
+
+Do not commit private local settings.
+
+## Contributing
