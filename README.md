@@ -59,3 +59,11 @@ Before working with the project, review the repository files to identify the req
 If the repository includes a package manifest, install the relevant runtime and package manager before continuing.
 
 For example, if a `package.json` file is present, install dependencies with:
+
+```bash
+npm install
+```
+
+If another package manager is used, follow the configuration provided in the repository.
+
+## Setup
