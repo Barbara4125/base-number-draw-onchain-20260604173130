@@ -67,3 +67,13 @@ npm install
 If another package manager is used, follow the configuration provided in the repository.
 
 ## Setup
+
+1. Clone the repository.
+2. Enter the project directory.
+3. Review the available files and configuration.
+4. Install the required dependencies.
+5. Run any available build, test, or development commands listed in the project files.
+
+Example:
+
+```bash
