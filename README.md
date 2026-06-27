@@ -104,3 +104,11 @@ npm run dev
 ```
 
 Only use commands that are actually defined in the repository.
+
+## Development Notes
+
+- Keep changes small and focused.
+- Update documentation when behavior or setup steps change.
+- Run available tests before submitting changes.
+- Review configuration files before modifying deployment or network-related settings.
+- Avoid committing local environment files, private configuration, or generated artifacts unless they are intentionally part of the project.
