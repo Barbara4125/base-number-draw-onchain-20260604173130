@@ -86,3 +86,11 @@ Then install dependencies according to the files included in the project.
 ## Usage
 
 Use the scripts and configuration provided in the repository.
+
+If a `package.json` file is available, list available scripts with:
+
+```bash
+npm run
+```
+
+Then run the appropriate command for your task.
