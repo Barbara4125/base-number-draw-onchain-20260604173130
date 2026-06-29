@@ -100,3 +100,13 @@ npm run
 ```
 
 Run only commands that are actually defined by the project.
+
+Common command names in JavaScript or TypeScript projects may include:
+
+```bash
+npm run build
+npm run test
+npm run dev
+```
+
+These examples should be used only if they exist in the repository configuration.
