@@ -83,3 +83,12 @@ Follow these general setup steps:
 Example:
 
 ```bash
+git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git
+cd base-number-draw-onchain-20260604173130
+```
+
+Then install dependencies using the package manager or tooling indicated by the repository files.
+
+## Usage
+
+Use the scripts, configuration, and documentation provided in the repository.
