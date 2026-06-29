@@ -167,3 +167,12 @@ docs/project-notes
 Keep pull requests focused on a single purpose whenever possible.
 
 ## Maintenance
+
+When maintaining this repository:
+
+- Keep this README aligned with the actual codebase.
+- Remove outdated instructions when tools or workflows change.
+- Document new commands when they are added.
+- Keep setup steps simple and reproducible.
+- Review dependency and configuration changes carefully.
+- Ensure documentation remains useful for new contributors and reviewers.
