@@ -35,3 +35,13 @@ Move into the project directory:
 ```bash
 cd base-number-draw-onchain-20260604173130
 ```
+
+## Project Structure
+
+The exact project structure depends on the current contents of the repository.
+
+After cloning the project, inspect the available files:
+
+```bash
+ls
+```
