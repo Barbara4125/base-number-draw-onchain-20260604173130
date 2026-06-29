@@ -119,3 +119,13 @@ These examples should be used only if they exist in the repository configuration
 - Review configuration files carefully before changing deployment or network-related settings.
 - Avoid committing private local configuration or generated files unless they are intentionally part of the project.
 - Prefer clear names for files, scripts, branches, and configuration values.
+
+## Testing
+
+If the repository includes a test suite, run it before submitting changes.
+
+For JavaScript or TypeScript-based projects, the test command may be:
+
+```bash
+npm test
+```
