@@ -147,3 +147,13 @@ Do not commit private local settings.
 If example configuration files are provided, use them as a guide and adapt them for local development as needed.
 
 ## Contributing
+
+To contribute to NumberDrawVault:
+
+1. Create a new branch for your work.
+2. Make focused changes.
+3. Run formatting, linting, and tests when available.
+4. Update documentation when needed.
+5. Open a pull request with a clear summary of the change.
+
+Suggested branch names:
