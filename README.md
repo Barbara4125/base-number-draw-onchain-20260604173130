@@ -92,3 +92,11 @@ Then install dependencies using the package manager or tooling indicated by the 
 ## Usage
 
 Use the scripts, configuration, and documentation provided in the repository.
+
+If a `package.json` file is available, list the available scripts with:
+
+```bash
+npm run
+```
+
+Run only commands that are actually defined by the project.
