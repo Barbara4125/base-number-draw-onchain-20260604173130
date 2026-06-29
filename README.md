@@ -176,3 +176,13 @@ When maintaining this repository:
 - Keep setup steps simple and reproducible.
 - Review dependency and configuration changes carefully.
 - Ensure documentation remains useful for new contributors and reviewers.
+
+## Notes
+
+This repository is hosted at:
+
+<https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git>
+
+The repository should be treated as the source of truth for implementation details.
+
+Review the latest committed files before building, testing, or deploying the project.
