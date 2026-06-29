@@ -73,3 +73,13 @@ If a different package manager or toolchain is used, follow the configuration an
 ## Setup
 
 Follow these general setup steps:
+
+1. Clone the repository.
+2. Enter the project directory.
+3. Review the files and configuration.
+4. Install required dependencies, if any.
+5. Run the available build, test, or development commands defined by the project.
+
+Example:
+
+```bash
