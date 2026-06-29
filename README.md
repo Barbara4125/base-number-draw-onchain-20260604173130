@@ -17,3 +17,11 @@ Because the codebase may change over time, always review the current repository 
 ## Features
 
 - Project identity for an on-chain number draw application.
+- Repository workflow suitable for local development and review.
+- Room for smart contract, application, script, or integration code as the project evolves.
+- Documentation sections for setup, usage, testing, configuration, and maintenance.
+- Contributor guidance for keeping changes clear, focused, and reproducible.
+
+## Repository
+
+Clone the repository from GitHub:
