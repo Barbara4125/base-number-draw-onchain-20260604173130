@@ -25,3 +25,13 @@ Because the codebase may change over time, always review the current repository 
 ## Repository
 
 Clone the repository from GitHub:
+
+```bash
+git clone https://github.com/Barbara4125/base-number-draw-onchain-20260604173130.git
+```
+
+Move into the project directory:
+
+```bash
+cd base-number-draw-onchain-20260604173130
+```
