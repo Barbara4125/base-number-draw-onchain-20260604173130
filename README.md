@@ -129,3 +129,13 @@ For JavaScript or TypeScript-based projects, the test command may be:
 ```bash
 npm test
 ```
+
+For other toolchains, use the test command defined by the project configuration.
+
+If no tests are currently present, consider adding tests alongside new functionality.
+
+## Configuration
+
+Configuration may be handled through committed files, local files, or environment-specific settings.
+
+Before running deployment, integration, or network-related commands, review the configuration carefully.
