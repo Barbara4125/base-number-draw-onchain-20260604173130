@@ -139,3 +139,11 @@ If no tests are currently present, consider adding tests alongside new functiona
 Configuration may be handled through committed files, local files, or environment-specific settings.
 
 Before running deployment, integration, or network-related commands, review the configuration carefully.
+
+Create local configuration files only when the project requires them.
+
+Do not commit private local settings.
+
+If example configuration files are provided, use them as a guide and adapt them for local development as needed.
+
+## Contributing
