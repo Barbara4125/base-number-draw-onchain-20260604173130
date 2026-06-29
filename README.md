@@ -157,3 +157,13 @@ To contribute to NumberDrawVault:
 5. Open a pull request with a clear summary of the change.
 
 Suggested branch names:
+
+```bash
+feature/number-draw-flow
+fix/readme-setup
+docs/project-notes
+```
+
+Keep pull requests focused on a single purpose whenever possible.
+
+## Maintenance
