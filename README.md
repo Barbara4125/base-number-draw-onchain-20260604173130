@@ -45,3 +45,11 @@ After cloning the project, inspect the available files:
 ```bash
 ls
 ```
+
+Depending on the current implementation, the repository may include files or folders such as:
+
+- `README.md` for project documentation.
+- Source directories for contracts, scripts, application code, or integrations.
+- Configuration files for development, build, or deployment tools.
+- Test directories for validation and regression checks.
+- Utility scripts for common project tasks.
