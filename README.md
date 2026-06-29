@@ -110,3 +110,12 @@ npm run dev
 ```
 
 These examples should be used only if they exist in the repository configuration.
+
+## Development Notes
+
+- Keep changes small, focused, and easy to review.
+- Update documentation when setup steps, behavior, or commands change.
+- Run available tests before committing changes.
+- Review configuration files carefully before changing deployment or network-related settings.
+- Avoid committing private local configuration or generated files unless they are intentionally part of the project.
+- Prefer clear names for files, scripts, branches, and configuration values.
