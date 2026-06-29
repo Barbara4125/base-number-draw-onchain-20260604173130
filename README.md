@@ -53,3 +53,13 @@ Depending on the current implementation, the repository may include files or fol
 - Configuration files for development, build, or deployment tools.
 - Test directories for validation and regression checks.
 - Utility scripts for common project tasks.
+
+Use the committed files as the source of truth for the current structure.
+
+## Requirements
+
+Before working with the project, review the repository files to identify the required tools.
+
+If a package manifest is present, install the appropriate runtime and package manager.
+
+For example, if the repository includes a `package.json` file, install dependencies with:
